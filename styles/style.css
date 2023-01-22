@@ -1,0 +1,11 @@
+.carousel-control-prev-icon{
+    background-color: rgb(222, 87, 87);
+
+}
+.carousel-control-next-icon{
+    background-color: rgb(225, 105, 105);
+}
+hr{
+    color: rgb(236, 123, 123);
+    padding-left: 10px;
+}
